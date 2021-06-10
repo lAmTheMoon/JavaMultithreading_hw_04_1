@@ -1,13 +1,13 @@
 package hw_04_1;
 
 public class IncomingCall {
-    private final int id;
+    private final int ID;
 
     public IncomingCall(int id) {
-        this.id = id;
+        this.ID = id;
     }
 
-    public int getId() {
-        return id;
+    public int getID() {
+        return ID;
     }
 }
